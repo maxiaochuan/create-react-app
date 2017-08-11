@@ -1,7 +1,17 @@
 # react-scripts
 
 This package includes scripts and configuration used by [Create React App](https://github.com/facebookincubator/create-react-app).<br>
-Please refer to its documentation:
+I added some extensions to it
 
-* [Getting Started](https://github.com/facebookincubator/create-react-app/blob/master/README.md#getting-started) – How to create a new app.
-* [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) – How to develop apps bootstrapped with Create React App.
+
+### Libraies
+
+*  React (react, react-dom)
+*  React Router (react-router)
+*  Redux (react-redux, redux-thunk, redux-logger)
+
+
+
+### Add
+
+*  useing sass
